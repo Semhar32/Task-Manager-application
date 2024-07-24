@@ -1,0 +1,25 @@
+/* Custom styles for the Task Manager */
+
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+#task-form {
+    max-width: 500px;
+    margin: auto;
+}
+
+#tasks {
+    max-width: 800px;
+    margin: auto;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
